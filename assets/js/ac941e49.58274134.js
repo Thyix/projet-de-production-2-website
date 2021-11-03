@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkprojet_de_production_2=self.webpackChunkprojet_de_production_2||[]).push([[470],{7415:function(e){e.exports=JSON.parse('{"allTagsPath":"/projet-de-production-2-website/blog/tags","slug":"/projet-de-production-2-website/blog/tags/hola","name":"hola","count":1,"permalink":"/projet-de-production-2-website/blog/tags/hola"}')}}]);
